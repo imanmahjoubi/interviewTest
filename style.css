@@ -1,0 +1,105 @@
+.header{
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+    height: 30px;
+    background-color: #FF6D00;
+}
+.top{
+    font-family: 'Lato', sans-serif !important;
+
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.orange {
+    color: #FF6D00;
+}
+.lorem{
+    color: #919191;
+}
+.w3-bar {
+    height: 100px;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+}
+.logo{
+    font-size: 40px;
+    margin-left: 30px;
+}
+.active {
+    color: black;
+}
+a{
+    color: #989898;
+}
+
+.curr-location{
+    margin-left: 30px;
+    margin-top: 3%;
+    color: lightgray;
+    font-size: 18px;
+}
+.w3-button:hover {
+    border-bottom-color: #FF6D00;
+    border-bottom-style: solid;
+    background-color: #f1f1f1 !important;
+}
+#name{
+    width: 100%;
+}
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #f1f1f1;
+
+}
+.fab{
+    color: #9d9d9d;
+}
+.fab:hover{
+    color: #000000;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    background: #f1f1f1;
+
+    resize: none;
+}
+
+.button {
+    background-color: #FF6D00;
+    font-family: 'Oswald', sans-serif;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+}
+#email , #phone {
+    width: 50%;
+    float: right
+}
+h2 , h3{
+    color: #FF6D00;
+}
+hr{
+    height: 5px;
+    background-color: black;
+}
+
+.body-content{
+    margin: 10px;
+}
+.contact{
+    margin: 30px;
+}
